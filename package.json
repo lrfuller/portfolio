@@ -1,6 +1,6 @@
 {
-  "name": "react-portfolio",
-  "homepage": "https://lrfuller.github.io/react-portfolio/",
+  "name": "portfolio",
+  "homepage": "https://github.com/lrfuller/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,6 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
