@@ -18,6 +18,7 @@ function Home() {
               href={item.href}
               className="text-sm duration-500 text-zinc-500 hover:text-zinc-300"
             >
+              {/* test */}
               {item.name}
             </Link>
           ))}
