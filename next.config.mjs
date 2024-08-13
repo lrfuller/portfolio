@@ -12,6 +12,7 @@ const nextConfig = {
    *
    * @see https://nextjs.org/docs/app/api-reference/next-config-js/basePath
    */
+  // Commen this line out to run locally
   basePath: "/nextjs-github-pages",
 
   /**

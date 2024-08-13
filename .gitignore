@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+# this file needs some things to be the same for it to deploy on github pages
+next.config.mjs
 
 # next.js
 /.next/
